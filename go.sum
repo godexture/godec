@@ -3,8 +3,8 @@ github.com/ebitengine/oto/v3 v3.4.0 h1:br0PgASsEWaoWn38b2Goe7m1GKFYfNgnsjSd5Gg+/
 github.com/ebitengine/oto/v3 v3.4.0/go.mod h1:IOleLVD0m+CMak3mRVwsYY8vTctQgOM0iiL6S7Ar7eI=
 github.com/ebitengine/purego v0.9.0 h1:mh0zpKBIXDceC63hpvPuGLiJ8ZAa3DfrFTudmfi8A4k=
 github.com/ebitengine/purego v0.9.0/go.mod h1:iIjxzd6CiRiOG0UyXP+V1+jWqUXVjPKLAI0mRfJZTmQ=
-github.com/godexture/cli v0.0.1-0.20260727053257-5aa00357e58b h1:gv1smJGC1kfty4gYeivNkUUa13ort4Ijys5j7GFh14M=
-github.com/godexture/cli v0.0.1-0.20260727053257-5aa00357e58b/go.mod h1:hvCe4AYz74UsqegBrQNPNn3alhKGjXv8YjGuyE7nvM8=
+github.com/godexture/cli v0.0.2 h1:7cfOijcQ/xIulCo8uqQrVbi+Q2gYTzHTGfnMU+HYRdc=
+github.com/godexture/cli v0.0.2/go.mod h1:hvCe4AYz74UsqegBrQNPNn3alhKGjXv8YjGuyE7nvM8=
 github.com/godexture/codec-flac v0.0.0 h1:ynAqM9U3gRZaDq3pbCyD55fVKRQtuKW2EGpW+XWl3pQ=
 github.com/godexture/codec-flac v0.0.0/go.mod h1:1yaXK05vZatMJOpVr+GEo5rcRCLdHi+8rdQqX6I7+MU=
 github.com/godexture/codec-mp3 v0.0.0 h1:iACFVru5ue6ZYRUvjoFIDQlNM6ZEKasENYRLaJsG/lA=

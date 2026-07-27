@@ -2,7 +2,7 @@ module github.com/godexture/godec
 
 go 1.26.4
 
-require github.com/godexture/cli v0.0.1-0.20260727053257-5aa00357e58b
+require github.com/godexture/cli v0.0.2
 
 require (
 	github.com/ebitengine/oto/v3 v3.4.0 // indirect
